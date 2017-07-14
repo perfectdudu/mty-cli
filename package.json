@@ -1,0 +1,28 @@
+{
+  "name": "mty-cli",
+  "version": "1.0.7",
+  "description": "构建一个自己的脚手架",
+  "main": "index.js",
+  "bin": {
+    "mty-cli": "./bin/mty-cli"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.9.0",
+    "shelljs": "^0.7.8"
+  },
+  "bugs": {
+    "url": "https://github.com/imakan/mty-cli/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:imakan/mty-cli.git"
+  },
+  "keywords": [
+    "mty-cli"
+  ],
+  "author": "makan",
+  "license": "ISC"
+}
